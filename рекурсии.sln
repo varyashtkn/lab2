@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "рекурсии", "рекурсии.vcxproj", "{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}.Debug|x64.ActiveCfg = Debug|x64
+		{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}.Debug|x64.Build.0 = Debug|x64
+		{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}.Debug|x86.ActiveCfg = Debug|Win32
+		{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}.Debug|x86.Build.0 = Debug|Win32
+		{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}.Release|x64.ActiveCfg = Release|x64
+		{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}.Release|x64.Build.0 = Release|x64
+		{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}.Release|x86.ActiveCfg = Release|Win32
+		{54CB05BE-2182-47FC-9EE4-EDE6A7B4C386}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F3A781-DA0C-4430-A324-266057D4732A}
+	EndGlobalSection
+EndGlobal
